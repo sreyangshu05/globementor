@@ -6,8 +6,8 @@ Welcome to **GlobeMentor**, a visually compelling, interactive, and modern stati
 
 ## ✨ Live Demo
 
-> **[View the site on Netlify/GitHub Pages](#)**  
-> *(Replace this link with your deployed site!)*
+> **[View the site on GitHub Pages](#)**  
+> *([Replace this link with your deployed site!](https://sreyangshu05.github.io/globementor/))*
 
 ---
 
@@ -103,7 +103,7 @@ Study Static/
 ## 🌐 Deployment
 
 You can deploy this static site for free using:
-- **[GitHub Pages](https://pages.github.com/):**
+- **[GitHub Pages]([https://pages.github.com/](https://sreyangshu05.github.io/globementor/)):**
   - Push to a `gh-pages` branch or use the repository settings.
 
 ---
